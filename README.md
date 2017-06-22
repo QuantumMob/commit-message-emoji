@@ -6,24 +6,13 @@ So let's celebrate each and every commit with a corresponding emoji! 😄
 Oh, and it can also help with glancing over commit messages to figure out
 what kind of changes have been made. 😏
 
-## Usage
-
-Prepend every commit message with an emoji with this form:
-`<emoji> commit message`.
-
-For commits with multiple types of messages, use multiple lines:
-```
-<emoji> commit message
-<emoji2> commit message2
-```
-
 ## Which Emoji to Use? ❓
 
 Commit Type | Emoji
 ----------  | -----
 Cosmetic | 💄 [Lipstick](http://emojipedia.org/lipstick/)
 New Feature | ✨ [Sparkles](http://emojipedia.org/sparkles/)
-Improved a feature | 🔧 [Wrench](http://emojipedia.org/wrench/)
+Improved a Feature | 🔧 [Wrench](http://emojipedia.org/wrench/)
 Work In Progress (WIP) | 🚧 [Construction Sign](http://emojipedia.org/construction-sign/)
 Bugfix | 🐛 [Bug](http://emojipedia.org/bug/)
 Refactoring | ♻️ [Black Universal Recycling Symbol](http://emojipedia.org/black-universal-recycling-symbol/)
@@ -36,6 +25,17 @@ Metadata | 📇 [Card Index](http://emojipedia.org/card-index/)
 Documentation | 📚 [Books](http://emojipedia.org/books/)
 Internationalization | 🌐 [Globe With Meridians](http://emojipedia.org/globe-with-meridians/)
 Initial Commit | 🎉 [Party Popper](http://emojipedia.org/party-popper/)
+
+## Usage
+
+Prepend every commit message with an emoji with this form:
+`<emoji> commit message`.
+
+For commits with multiple types of messages, use multiple lines:
+```
+<emoji> commit message
+<emoji2> commit message2
+```
 
 ## Using Emoji is Hard! 😡
 
