@@ -27,6 +27,10 @@ Documentation | 📚 [Books](http://emojipedia.org/books/)
 Internationalization | 🌐 [Globe With Meridians](http://emojipedia.org/globe-with-meridians/)
 Initial Commit | 🎉 [Party Popper](http://emojipedia.org/party-popper/)
 
+UI/UX Type | Emoji
+----------  | -----
+Finalized | 🍥 [Fishcake](http://emojipedia.org/fish-cake-with-swirl-design/)
+
 ## Usage
 
 Prepend every commit message with an emoji with this form:
